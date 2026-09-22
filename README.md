@@ -2,6 +2,8 @@
 
 Statická jednostránková prezentace pro freelance zakázky: AI automatizace, systémové integrace, API a interní nástroje.
 
+**Live:** https://roman-krsnak-portfolio.pages.dev
+
 ## Lokálně
 Není potřeba build. Otevřete `index.html`, případně spusťte `python3 -m http.server 8080`.
 
